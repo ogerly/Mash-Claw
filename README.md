@@ -1,5 +1,9 @@
 # Mash-Claw
 
+<p align="center">
+  <img src="assets/mash-claw-logo.png" alt="Mash-Claw Logo" width="400">
+</p>
+
 **Dezentrales Agenten-Mesh für verteilte Open-Source KI**
 
 ---
